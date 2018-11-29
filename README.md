@@ -1,7 +1,7 @@
-# ux_research
-User experience research and reporting
+# User Experience Documents
+User experience research and reporting.
 
-File repository for final documents. Please use the ux_prototypes repository for working files and design. https://github.com/gctools-outilsgc/ux_prototypes
+File repository for final UX documents. Please use the ux_prototypes repository for working files and design. https://github.com/gctools-outilsgc/ux_prototypes
 
 This repository includes .docx and .pdf files for the following:
 
@@ -12,5 +12,6 @@ This repository includes .docx and .pdf files for the following:
 * research plans
 * application requirements
 * raw user data
+* user communications
 
 This folder structure is also replicated in GCdocs at https://gcdocsp.tbssct.local/gcdocs/llisapi.dll?func=ll&objId=33037494&objAction=browse
