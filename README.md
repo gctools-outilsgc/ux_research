@@ -1,5 +1,7 @@
 # ux_research
-User Experience Research and Reporting
+User experience research and reporting
+
+File repository for final documents. Please use the ux_prototypes repository for working files and design. https://github.com/gctools-outilsgc/ux_prototypes
 
 This repository includes .docx and .pdf files for the following:
 
